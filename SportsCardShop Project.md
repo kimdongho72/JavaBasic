@@ -36,7 +36,7 @@
 
 ### 👤 회원 시스템 (Member)
 
-* **회원가입/로그인/탈퇴/수정**: 기본 CRUD 수행
+* **회원가입/로그인/탈퇴/수정**
 * `join(MemberVO)`: 중복 ID 체크 및 등록
 * `login(id, pw)`: 비밀번호 일치 여부 확인
 * `updateInfo(MemberVO)`: 닉네임/비밀번호 수정 처리
@@ -44,7 +44,7 @@
 
 ### 🃏 카드 기능 (Card)
 
-* **CRUD + 고급 필터링 기능** 제공
+* **고급 필터링 기능** 제공
 * `getAllCards()`: 전체 목록 출력
 * `searchCards(CardSearchCondition)`: 브랜드, 연도, 가격 등 조건 다중 검색
 * `registerCard(), updateCard(), deleteCard()`: 관리자 전용 카드 관리 기능
