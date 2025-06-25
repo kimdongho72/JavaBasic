@@ -93,7 +93,8 @@ java app.MainApplication
 ## 📌 클래스 다이어그램 (전체 구조 시각화)
 
 ### 📦 카드 구조
-![카드 클래스 다이어그램](https://github.com/user-attachments/assets/defb8860-734d-4aee-8ecb-011665839011)
+
+![캡처](https://github.com/user-attachments/assets/02237e4c-9eca-4814-81a6-7f751a93e129)
 
 
 
