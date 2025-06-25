@@ -121,10 +121,12 @@ java app.MainApplication
 
 ## 🎥 프로젝트 시연 영상
 
-> (추후 업로드 예정입니다)
+사용자 메뉴 시연
+https://youtu.be/2g4OhmLJRCY
 
----
+관리자 메뉴 시연
 
+https://youtu.be/Me0mchQwEaE
 ## 🌱 기대 효과 및 향후 개발 계획
 
 ### ✅ 기대 효과
