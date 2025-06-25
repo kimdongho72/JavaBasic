@@ -78,9 +78,8 @@
 ## ⚙️ 개발 환경 및 기술 스택
 
 * **Language**: Java 17+
-* **IDE**: IntelliJ / Eclipse
+* **IDE**:     Eclipse
 * **구현 패턴**: MVC 유사 구조 (VO / DAO / Service 분리)
-* **데이터 구조**: `HashMap` 기반 메모리 저장
 * **빌드 도구**: 없음 (CLI 실행)
 
 ```bash
